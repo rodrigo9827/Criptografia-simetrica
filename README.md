@@ -1,6 +1,6 @@
 # Criptografia-simetrica
 
-<<<<<<< HEAD
+
 * Cifra de Cesar: 
     
     * arquivo: criptografia_cifra_cesar
@@ -15,5 +15,5 @@
 
        Qual a chave de deslocamento: (Valor numérico inteiro ...-2,-1,0,1,2...)
        
-=======
->>>>>>> 95e2bd2ccae2af4ea162f0d37b9feba1306ec166
+__________________________________________________________________________________________________________________________________________
+
